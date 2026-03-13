@@ -1,0 +1,15 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+sqlalchemy>=2.0.0
+aiosqlite
+pydantic>=2.0.0
+pydantic-settings
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+pandas
+openpyxl
+fuzzywuzzy
+python-Levenshtein
+python-dotenv
+httpx
